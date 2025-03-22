@@ -1,0 +1,19 @@
+upcoda/
+├── index.html
+├── styles/
+│   └── main.css
+├── scripts/
+│   └── app.js
+├── assets/
+│   ├── icons/
+│   │   ├── upcoda.txt.webp
+│   │   ├── youtube.webp
+│   │   ├── newgrounds.webp
+│   │   ├── bandcamp.webp
+│   │   ├── ko-fi.webp
+│   │   └── instagram.webp
+│   └── background.webp
+└── sounds/
+    ├── boot.mp3
+    ├── window_open.mp3
+    └── click.mp3
